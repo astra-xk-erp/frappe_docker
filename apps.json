@@ -13,6 +13,6 @@
   },
   {
     "url": "https://github.com/frappe/offsite_backups.git",
-    "branch": "develop"
+    "branch": "version-16"
   }
 ]
