@@ -1,0 +1,18 @@
+[
+  {
+    "url": "https://github.com/frappe/erpnext.git",
+    "branch": "version-16"
+  },
+  {
+    "url": "https://github.com/frappe/hrms.git",
+    "branch": "version-16"
+  },
+  {
+    "url": "https://github.com/astra-xk-erp/erpnext_customizations.git",
+    "branch": "master"
+  },
+  {
+    "url": "https://github.com/frappe/offsite_backups.git",
+    "branch": "develop"
+  }
+]
